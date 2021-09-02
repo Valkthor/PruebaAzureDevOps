@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/Valkthor/e8f0a1f5-0513-4975-b373-e49821cf2ed1/ca96665e-e621-4678-b72e-0fd09c7ffea8/_apis/work/boardbadge/df0bd722-5900-47b0-b616-84c72225d501)](https://dev.azure.com/Valkthor/e8f0a1f5-0513-4975-b373-e49821cf2ed1/_boards/board/t/ca96665e-e621-4678-b72e-0fd09c7ffea8/Microsoft.RequirementCategory)
